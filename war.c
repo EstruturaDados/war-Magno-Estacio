@@ -98,6 +98,7 @@
 // Função utilitária para limpar o buffer de entrada do teclado (stdin), evitando problemas com leituras consecutivas de scanf e getchar.
 
 
+// primeira parte do desafio 22/06/26
 
 
 
